@@ -9,6 +9,7 @@ import formatNumber from "utils/formatNumber";
 import Button from "elements/Button";
 
 function Hero(props) {
+  //membuat fungsi button smooth
   function showMostPicked() {
     window.scrollTo({
       top: props.refMostPicked.current.offsetTop - 30,
