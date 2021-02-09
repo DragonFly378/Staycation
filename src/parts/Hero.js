@@ -8,6 +8,7 @@ import formatNumber from "utils/formatNumber";
 
 import Button from "elements/Button";
 
+// (props) untuk memanggil json -- data....
 function Hero(props) {
   //membuat fungsi button smooth
   function showMostPicked() {

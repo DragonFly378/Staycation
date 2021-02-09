@@ -1,6 +1,7 @@
 import React from "react";
 import Button from "elements/Button";
 
+// (props) untuk memanggil json -- data....
 function MostPicked(props) {
   return (
     <section className="container" ref={props.refMostPicked}>
