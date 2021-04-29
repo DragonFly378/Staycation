@@ -97,6 +97,7 @@ function Hero(props) {
             </div>
           </div>
         </div>
+
         <div className="kanan col-6 pl-5" style={{ marginBottom: "-30px" }}>
           <div style={{ width: 520, height: 410 }}>
             <img
