@@ -18,7 +18,6 @@ function MostPicked(props) {
                   ${item.price}{" "}
                   <span className="font-weight-light">per {item.unit}</span>
                 </div>
-
                 <figure className="img-wrapper">
                   <img
                     src={item.imageUrl}
@@ -26,7 +25,7 @@ function MostPicked(props) {
                     className="img-cover"
                   />
                 </figure>
-
+                git config --global user.email "you@example.com"
                 <div className="meta-wrapper">
                   <Button
                     type="link"

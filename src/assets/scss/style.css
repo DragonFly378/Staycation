@@ -5186,7 +5186,6 @@ input[type="button"].btn-block {
   word-wrap: break-word;
   background-color: #fff;
   background-clip: border-box;
-  border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
 }
 
@@ -11126,6 +11125,7 @@ section {
   background-color: #ff498b;
   padding: 0.25rem 1.25rem;
   position: absolute;
+  font-weight: bold;
   top: 0;
   right: 0;
   color: white;
